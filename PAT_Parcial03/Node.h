@@ -7,3 +7,6 @@ struct Node
 	Node* next;
 };
 
+
+
+
